@@ -1,2 +1,2 @@
 # Zoom-Automation
-An application which enables launching zoom to the corresponding meeting room according to a timetable
+An application which automates the process of going to a corresponding meeting room and taking attendance(if needed) according to a timetable
